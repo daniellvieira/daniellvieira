@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Vieira 👋
+### Hi there, I'm Daniel Vieira 👨🏼‍💼
 
 ## I'm a back end developer, focused in Ruby on Rails!
 - 💼 I’m currently working in [@agendakids](https://github.com/agendakids) as _Frontend Developer_;
